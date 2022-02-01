@@ -1,0 +1,3 @@
+bool play(std::vector <char> hand, char dealer, std::vector <char> other_cards) {
+  return false; 
+}
